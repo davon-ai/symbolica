@@ -18,7 +18,6 @@ Competitive salary + early-stage equity package.
 High-trust, execution-first culture with minimal bureaucracy.
 Direct ownership of meaningful projects with tangible impact.
 A rare chance to work at the interface of deep research and real-world productization.
-Candidates for this position must be legally authorized to work in the United States. This position is not eligible for visa sponsorship or support.
 
 Read more about Symbolica:
 
