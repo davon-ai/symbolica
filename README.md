@@ -1,3 +1,61 @@
+👋 Hi, I’m an AI Talent Recruiter
+
+Welcome! If you’ve landed here, chances are you’re an engineer, researcher, or builder in AI/ML curious about your next step. My job is to help talented people like you connect with opportunities that align with your skills, values, and ambitions.
+
+🚀 What I Do
+
+I specialize in recruiting for:
+
+AI Agent Engineers (CrewAI, LangGraph, Smol Agents, custom frameworks)
+
+ML / MLOps / Infra Engineers (scaling training, inference, and deployment)
+
+LLM Researchers (reasoning, fine-tuning, evaluation, safety)
+
+DevOps / SREs for AI systems (GPU orchestration, SLURM, Kubernetes, distributed systems)
+
+Software Engineers (Rust) - building reliable SDKs for large-scale AI
+
+💡 Why Work With Me
+
+I speak your language → I understand the difference between LLMOps vs. MLOps, SLURM vs. Kubernetes, Rust vs. Go.
+
+I respect your time → no spammy outreach, just opportunities that make sense for your career.
+
+I stay plugged into the AI community → meetups, hackathons, GitHub, ArXiv, open-source projects.
+
+I advocate for you → helping you navigate offers, negotiation, and team fit.
+
+🎯 What I Look For in Candidates
+
+People building or experimenting with agents & multi-agent systems
+
+Engineers who’ve shipped research into production
+
+Contributors to open-source AI/infra projects
+
+Builders excited about pushing AI forward responsibly
+
+🌱 How I Can Help You
+
+Explore career opportunities at startups and frontier AI labs
+
+Offer guidance on interviews, salary benchmarks, and technical fit
+
+Connect you with teams where your work creates impact
+
+Keep you updated on emerging trends in AI hiring
+
+📫 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/dkeokanock/
+
+📧 Email: davon@symbolica.ai
+
+🛠️ GitHub Discussions / Issues
+ → feel free to drop me a note here too!
+
+
 # Symbolica AI 🤖
 
 About Symbolica
