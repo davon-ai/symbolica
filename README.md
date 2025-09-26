@@ -2,19 +2,16 @@
 
 Welcome! If you’ve landed here, chances are you’re an engineer, researcher, or builder in AI/ML curious about your next step. My job is to help talented people like you connect with opportunities that align with your skills, values, and ambitions.
 
-🚀 What I Do
+🚀 Roles I'm recruiting for:
 
-I specialize in recruiting for:
+[AI Agent Engineers](https://www.linkedin.com/jobs/view/4289498371/?trk=mcm) (CrewAI, LangGraph, Smol Agents, custom frameworks)
 
-AI Agent Engineers (CrewAI, LangGraph, Smol Agents, custom frameworks)
+[ML / MLOps / Infra Engineers](https://www.linkedin.com/jobs/view/4295898591) (scaling training, inference, and deployment)
 
-ML / MLOps / Infra Engineers (scaling training, inference, and deployment)
+[Founding DevOps Engineer](https://www.linkedin.com/jobs/view/4281096509) (GPU orchestration, SLURM, Kubernetes, distributed systems)
 
-LLM Researchers (reasoning, fine-tuning, evaluation, safety)
+[Software Engineers (Rust)](https://www.linkedin.com/jobs/view/4265460789) - (building reliable SDKs for large-scale AI in Rust + Python)
 
-DevOps / SREs for AI systems (GPU orchestration, SLURM, Kubernetes, distributed systems)
-
-Software Engineers (Rust) - building reliable SDKs for large-scale AI
 
 💡 Why Work With Me
 
@@ -26,6 +23,7 @@ I stay plugged into the AI community → meetups, hackathons, GitHub, ArXiv, ope
 
 I advocate for you → helping you navigate offers, negotiation, and team fit.
 
+
 🎯 What I Look For in Candidates
 
 People building or experimenting with agents & multi-agent systems
@@ -36,15 +34,17 @@ Contributors to open-source AI/infra projects
 
 Builders excited about pushing AI forward responsibly
 
+
 🌱 How I Can Help You
 
-Explore career opportunities at startups and frontier AI labs
+Explore career opportunities at startups and research AI labs
 
 Offer guidance on interviews, salary benchmarks, and technical fit
 
 Connect you with teams where your work creates impact
 
 Keep you updated on emerging trends in AI hiring
+
 
 📫 Let’s Connect
 
